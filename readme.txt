@@ -16,13 +16,6 @@ A lightweight responsive progress bar which will work with your favourite HTML5 
 
 It works with major browsers, is configurable and only dependency is jQuery which is heavily used by WordPress themes.
 
-== Installation ==
-
-1. Download the latest version and extract it in the /wp-content/plugins/ directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-
-To disable the shortcode, deactivate the plugin in the 'Plugins' menu in WordPress.
-
 **Usage**
 
 Use the shortcode [rprogress] anywhere while editing your post or page. Below are some examples:
@@ -41,6 +34,13 @@ Below is a complete list of attributes with default values as well:
 *   border_radius (default = "3px")
 *   text (default = "")
 *   text_color (default = "#333")
+
+== Installation ==
+
+1. Download the latest version and extract it in the /wp-content/plugins/ directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+
+To disable the shortcode, deactivate the plugin in the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
