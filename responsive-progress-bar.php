@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/plugins/responsive-progress-bar/
 Description: Shortcode for displaying a responsive configurable progress bar.
 Author: Rene Puchinger
 Version: 1.0
-Author URI: http://www.renepuchinger.com
+Author URI: https://wordpress.org/plugins/responsive-progress-bar/
 License: GPL3
 
     Copyright (C) 2013  Rene Puchinger
